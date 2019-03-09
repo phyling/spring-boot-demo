@@ -1,0 +1,19 @@
+#yml类型 局部自定义配置文件 @PropertyResource 无效
+emp:
+  emali: 163@126.com
+  lastName: zhangsan
+  age: 3
+  salary: 5000.0
+  boss: true
+  birthday: 1991/2/3
+  map:
+    key3: 6
+    key1: 3
+    key2: 56
+  list:
+    - one
+    - two
+    - three
+  forte:
+    name: Python
+    time: 10

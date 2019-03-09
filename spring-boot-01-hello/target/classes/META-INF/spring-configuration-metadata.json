@@ -1,0 +1,57 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp",
+      "type": "com.mengxuegu.entry.Emp"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.birthday",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.boss",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.emali",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.forte",
+      "type": "com.mengxuegu.entry.Forte"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.list",
+      "type": "java.util.List"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.map",
+      "type": "java.util.Map"
+    },
+    {
+      "sourceType": "com.mengxuegu.entry.Emp",
+      "name": "emp.salary",
+      "type": "java.lang.Double"
+    }
+  ]
+}
